@@ -278,7 +278,7 @@ B.Tech Computer Science, NIMS University (2024)
 Actively seeking Data Analyst roles — open to remote and on-site opportunities across India.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-sagar-b33a84145)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/your-viinaayy)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/viinaayy)
 
 ---
 
